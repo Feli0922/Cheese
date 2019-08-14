@@ -1,0 +1,436 @@
+harvard-university: 
+Top Ranked Majors:
+Biology
+Anthropology and Sociology
+Political Science
+Math
+Economics
+Chemistry
+Philosophy
+History
+Art
+Environmental Science
+
+Most Popular Majors:
+Economics
+Computer Science
+History
+Political Science and Government
+Social Science Research Methods
+Research and Experimental Psychology
+Public Health
+Statistics
+Ecology and Evolutionary Biology
+Computational and Applied Mathematics
+
+
+princeton-university: 
+Top Ranked Majors:
+Philosophy
+History
+Political Science
+Chemistry
+English
+Engineering
+Physics
+Psychology
+Math
+Biology
+
+Most Popular Majors:
+Computer Hardware Engineering
+Economics
+Public Policy Analysis
+History
+Political Science and Government
+Engineering
+Biochemistry and Molecular Biology
+Ecology and Evolutionary Biology
+English
+Research and Experimental Psychology
+
+
+yale-university: 
+Top Ranked Majors:
+History
+Psychology
+English
+Anthropology and Sociology
+Political Science
+Biology
+International Relations
+Environmental Science
+Economics
+Engineering
+
+Most Popular Majors:
+Economics
+Political Science and Government
+History
+English
+Cellular Biology
+Liberal Arts and Humanities
+Psychology
+Information Science
+International Relations
+North American Studies
+
+
+dartmouth-college: 
+Top Ranked Majors:
+Anthropology and Sociology
+Economics
+History
+Political Science
+Art
+Environmental Science
+Computer Science
+Math
+Psychology
+Biology
+
+Most Popular Majors:
+Economics
+Political Science and Government
+Computer Science
+Engineering Science
+History
+Biology
+Neuroscience and Neurobiology
+Psychology
+Mathematics
+Geography
+
+
+columbia-university: 
+Top Ranked Majors:
+English
+Performing Arts
+Philosophy
+History
+Anthropology and Sociology
+Computer Science
+Political Science
+Environmental Science
+Economics
+Engineering
+
+Most Popular Majors:
+Economics
+Computer Science
+Political Science and Government
+Research and Experimental Psychology
+History
+Biology
+Engineering
+English
+Philosophy
+Mathematics
+
+
+university-of-pennsylvania: 
+Top Ranked Majors:
+Business
+Accounting and Finance
+Nursing
+Communications
+Film and Photography
+Philosophy
+Anthropology and Sociology
+Political Science
+International Relations
+Psychology
+
+Most Popular Majors:
+Finance
+Nursing
+Economics
+Business
+Political Science and Government
+Biology
+Philosophy
+Operations Management
+History
+Information Science
+
+
+brown-university: 
+Top Ranked Majors:
+Education
+English
+Biology
+Math
+International Relations
+Philosophy
+History
+Computer Science
+Art
+Communications
+
+Most Popular Majors:
+Biology
+Economics
+Computer Science
+Computational and Applied Mathematics
+Engineering
+Entrepreneurship
+Neuroscience and Neurobiology
+History
+International Relations
+Political Science and Government
+
+
+cornell-university: 
+Top Ranked Majors:
+Agricultural Sciences
+Architecture
+Information Technology
+Business
+Physics
+Computer Science
+Engineering
+Economics
+Philosophy
+Biology
+
+Most Popular Majors:
+Biology
+Computer Science
+Business
+Hospitality and Tourism Management
+Agricultural Business
+Economics
+Mechanical Engineering
+Engineering
+Political Science and Government
+Animal Sciences and Husbandry
+
+
+massachusetts-institute-of-technology: 
+Top Ranked Majors:
+Computer Science
+Engineering
+Physics
+Math
+Chemistry
+Biology
+Business
+Economics
+
+Most Popular Majors:
+Computer Science
+Mechanical Engineering
+Mathematics
+Electrical Engineering
+Physics
+Aerospace Engineering
+Chemical Engineering
+Bioengineering and Biomedical Engineering
+Biology
+Materials Engineering
+
+
+california-institute-of-technology: 
+Top Ranked Majors:
+Chemistry
+Physics
+Engineering
+Computer Science
+Math
+Biology
+
+Most Popular Majors:
+Computer Science
+Mechanical Engineering
+Physics
+Chemistry
+Electrical Engineering
+Computational and Applied Mathematics
+Chemical Engineering
+Mathematics
+Bioengineering and Biomedical Engineering
+Biology
+
+
+stanford-university: 
+Top Ranked Majors:
+Psychology
+Environmental Science
+Biology
+Computer Science
+Economics
+Engineering
+International Relations
+Communications
+History
+Math
+
+Most Popular Majors:
+Computer Science
+Biology
+Engineering
+Liberal Arts and Humanities
+Mechanical Engineering
+Economics
+Cognitive Science
+Psychology
+Electrical Engineering
+International Relations
+
+
+university-of-chicago: 
+Top Ranked Majors:
+Math
+Economics
+Anthropology and Sociology
+Philosophy
+History
+Chemistry
+Physics
+English
+Performing Arts
+Environmental Science
+
+Most Popular Majors:
+Economics
+Mathematics
+Biology
+Political Science and Government
+Public Policy Analysis
+Computer Science
+Chemistry
+English
+Statistics
+History
+
+
+duke-university: 
+Top Ranked Majors:
+Environmental Science
+Economics
+Biology
+Psychology
+Nursing
+Engineering
+Chemistry
+Philosophy
+Anthropology and Sociology
+Math
+
+Most Popular Majors:
+Economics
+Computer Science
+Public Policy Analysis
+Biology
+Nursing
+Bioengineering and Biomedical Engineering
+Political Science and Government
+Psychology
+Electrical Engineering
+Mechanical Engineering
+
+
+johns-hopkins-university: 
+Top Ranked Majors:
+Biology
+International Relations
+Music
+Nursing
+Chemistry
+Environmental Science
+Physics
+Engineering
+Math
+Psychology
+
+Most Popular Majors:
+Public Health
+Nursing
+International Relations
+Bioengineering and Biomedical Engineering
+Economics
+Neuroscience and Neurobiology
+Chemical Engineering
+Cellular Biology
+Music Performance
+Mathematics
+
+
+northwestern-university: 
+Top Ranked Majors:
+Communications
+Performing Arts
+Economics
+Music
+Chemistry
+Political Science
+Philosophy
+Biology
+Anthropology and Sociology
+Psychology
+
+Most Popular Majors:
+Economics
+Communications
+Psychology
+Journalism
+Political Science and Government
+Biology
+Industrial Engineering
+Radio and Television
+Mechanical Engineering
+Drama and Theatre Production
+
+
+rice-university: 
+Top Ranked Majors:
+Kinesiology and Physical Therapy
+Architecture
+Psychology
+Art
+Engineering
+Anthropology and Sociology
+Math
+Music
+Biology
+History
+
+Most Popular Majors:
+Economics
+Information Science
+Chemical Engineering
+Biochemistry and Molecular Biology
+Mechanical Engineering
+Kinesiology and Exercise Science
+Cognitive Science
+Psychology
+Sport and Fitness Management
+Architecture
+
+
+vanderbilt-university: 
+Top Ranked Majors:
+Education
+Psychology
+Communications
+Music
+Biology
+Political Science
+Economics
+Philosophy
+Engineering
+History
+
+Most Popular Majors:
+Economics
+Social Science Research Methods
+Liberal Arts and Humanities
+Neuroscience and Neurobiology
+Political Science and Government
+Mathematics
+Computer Science
+Mechanical Engineering
+Psychology
+Bioengineering and Biomedical Engineering
+
+

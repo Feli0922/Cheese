@@ -1,0 +1,589 @@
+
+ Emmanuel Abbe 
+  
+ Associate Professor of Electrical EngineeringAssociate Professor in Program in Applied and Computational MathematicsAssociated Faculty in Mathematics 
+ B322 Engineering Quadrangle, 212 Fine Hall 
+ 609-258-4692 
+ eabbe@princeton.edu 
+ Research Interests Information Sciences & Systems
+Security
+  
+ Ravindra N. Bhatt 
+  
+ Professor of Electrical Engineering 
+ B430 Engineering Quadrangle 
+ 609-258-1819 
+ ravin@princeton.edu 
+ Research Interests Applied Physics
+  
+ Minjie Chen 
+  
+ Assistant Professor of Electrical Engineering Assistant Professor of Andlinger Center for Energy and the Environment 
+ 217 Andlinger Center for Energy and the Environment 
+ 609-258-7656 
+ minjie@princeton.edu 
+ Research Interests Applied Physics
+Energy & Environment
+Integrated Electronic Systems
+Materials & Devices
+  
+ Yuxin Chen 
+  
+ Assistant Professor of Electrical EngineeringAssociated Faculty in Computer ScienceAssociated Faculty in Applied and Computational Mathematics 
+ B316 Engineering Quadrangle 
+ 609-258-3996 
+ yuxin.chen@princeton.edu 
+ Research Interests Information Sciences & Systems
+  
+ Stephen Chou 
+  
+ Joseph C. Elgin Professor of EngineeringProfessor of Electrical Engineering 
+ B412 Engineering Quadrangle 
+ 609-258-4416 
+ chou@princeton.edu 
+ Research Interests Biological & Biomedical
+Materials & Devices
+Nanotechnologies
+Photonics
+  
+ Nathalie de Leon 
+  
+ Assistant Professor of Electrical Engineering 
+ B320, Engineering Quadrangle 
+ 609-258-5694 
+ npdeleon@princeton.edu 
+ Research Interests Applied Physics
+Materials & Devices
+Nanotechnologies
+Photonics
+Quantum Information
+  
+ Jason W. Fleischer 
+  
+ Professor of Electrical Engineering 
+ 318 87 Prospect 
+ 609-258-8963 
+ jasonf@princeton.edu 
+ Research Interests Applied Physics
+Biological & Biomedical
+Photonics
+  
+ Claire Gmachl 
+  
+ Associate Chair, Department of Electrical EngineeringDirector of  Education Program of MIRTHE+Eugene Higgins Professor of Electrical Engineering 
+ B227A Engineering Quadrangle 
+ 609-258-7489 
+ cgmachl@princeton.edu 
+ Research Interests Applied Physics
+Materials & Devices
+Photonics
+  
+ Andrew Houck 
+  
+ Professor of Electrical Engineering 
+ B424 Engineering Quadrangle 
+ 609-258-2571 
+ aahouck@princeton.edu 
+ Research Interests Applied Physics
+Photonics
+Quantum Information
+  
+ Niraj Jha 
+  
+ Professor of Electrical Engineering 
+ B220 Engineering Quadrangle 
+ 609-258-4754 
+ jha@princeton.edu 
+ Research Interests Biological & Biomedical
+Computing & Networking
+High-Performance Computing
+Information Sciences & Systems
+Integrated Electronic Systems
+Security
+  
+ Chi Jin 
+  
+ Assistant Professor of Electrical Engineering 
+  
+  
+  
+ Research Interests Information Sciences & Systems
+  
+ Antoine Kahn 
+  
+ Vice Dean, School of Engineering and Applied SciencesStephen C. Macaleer '63 Professor in Engineering and Applied ScienceProfessor of Electrical Engineering 
+ B420 Engineering Quadrangle 
+ 609-258-4642 
+ kahn@princeton.edu 
+ Research Interests Energy & Environment
+Materials & Devices
+  
+ Sanjeev R. Kulkarni 
+  
+ Dean of the FacultyWilliam R. Kenan, Jr., Professor of Electrical Engineering 
+ B310 Engineering Quadrangle 
+ 609-258-6727 
+ kulkarni@princeton.edu 
+ Research Interests Information Sciences & Systems
+  
+ Sun-Yuan Kung 
+  
+ Professor of Electrical Engineering 
+ B230 Engineering Quadrangle 
+ 609-258-3780 
+ kung@princeton.edu 
+ Research Interests Biological & Biomedical
+Computing & Networking
+Information Sciences & Systems
+Security
+  
+ Ruby Lee 
+  
+ Forrest G. Hamrick Professor in EngineeringProfessor of Electrical Engineering 
+ B218 Engineering Quadrangle 
+ 609-258-1426 
+ rblee@princeton.edu 
+ Research Interests Computing & Networking
+High-Performance Computing
+Security
+  
+ Jason D. Lee 
+  
+ Assistant Professor of Electrical Engineering  
+ B308 Engineering Quadrangle 
+ 609-258-8396 
+ jasonlee@princeton.edu 
+ Research Interests Information Sciences & Systems
+  
+ Stephen A. Lyon 
+  
+ Professor of Electrical Engineering 
+ B428 Engineering Quadrangle 
+ 609-258-4635 
+ lyon@princeton.edu 
+ Research Interests Applied Physics
+Photonics
+Quantum Information
+  
+ Sharad Malik 
+  
+ Chair, Department of Electrical EngineeringGeorge Van Ness Lothrop Professor in EngineeringProfessor of Electrical Engineering 
+ B212 Engineering Quadrangle 
+ 609-258-4625 
+ sharad@princeton.edu 
+ Research Interests Computing & Networking
+High-Performance Computing
+Integrated Electronic Systems
+Security
+  
+ Prateek Mittal 
+  
+ Associate Professor of Electrical Engineering 
+ B326 Engineering Quadrangle 
+ 609-258-0814 
+ pmittal@princeton.edu 
+ Research Interests Computing & Networking
+High-Performance Computing
+Information Sciences & Systems
+Security
+  
+ H. Vincent Poor 
+  
+ Michael Henry Strater University Professor 
+ B330 Engineering Quadrangle 
+ 609-258-1816 
+ poor@princeton.edu 
+ Research Interests Computing & Networking
+Energy & Environment
+Information Sciences & Systems
+Security
+  
+ Paul Prucnal 
+  
+ Professor of Electrical Engineering 
+ B314 Engineering Quadrangle 
+ 609-258-5549 
+ prucnal@princeton.edu 
+ Research Interests Applied Physics
+Materials & Devices
+Photonics
+Security
+  
+ Peter J Ramadge 
+  
+ Director of the Center for Statistics and Machine LearningGordon Y.S. Wu Professor of EngineeringProfessor of Electrical Engineering 
+ B222 Engineering Quadrangle 
+ 609-258-4645 
+ ramadge@princeton.edu 
+ Research Interests Biological & Biomedical
+Information Sciences & Systems
+  
+ Barry P. Rand 
+  
+ Associate Professor of Electrical EngineeringAssociate Professor of Andlinger Center for Energy and the Environment 
+ B414 Engineering Quadrangle 
+ +1-609-258-7692 
+ brand@princeton.edu 
+ Research Interests Applied Physics
+Energy & Environment
+Materials & Devices
+Nanotechnologies
+  
+ Alejandro Rodriguez 
+  
+ Associate Professor of Electrical Engineering 
+ B318 Engineering Quadrangle 
+ 609-258-8962 
+ arod@princeton.edu 
+ Research Interests Applied Physics
+Materials & Devices
+Nanotechnologies
+Photonics
+  
+ Kaushik Sengupta 
+  
+ Associate Professor of Electrical Engineering 
+ B216 Engineering Quadrangle 
+ 609-258-5250 
+ kaushiks@princeton.edu 
+ Research Interests Biological & Biomedical
+Integrated Electronic Systems
+  
+ Mansour Shayegan 
+  
+ Professor of Electrical Engineering 
+ B408 Engineering Quadrangle 
+ 609-258-4639 
+ shayegan@princeton.edu 
+ Research Interests Applied Physics
+Materials & Devices
+Quantum Information
+  
+ James Sturm 
+  
+ Undergraduate Department RepresentativeStephen R. Forrest Professor of Electrical Engineering 
+ B410 Engineering Quadrangle 
+ 609-258-5610 
+ sturm@princeton.edu 
+ Research Interests Biological & Biomedical
+Energy & Environment
+Materials & Devices
+Nanotechnologies
+  
+ Jeff Thompson 
+  
+ Assistant Professor of Electrical Engineering 
+ B328, Engineering Quadrangle 
+ 609-258-6124 
+ jdthompson@princeton.edu 
+ Research Interests Applied Physics
+Photonics
+Quantum Information
+  
+ Hakan Türeci 
+  
+ Associate Professor of Electrical Engineering 
+ B312 Engineering Quadrangle 
+ 609-258-1993 
+ tureci@princeton.edu 
+ Research Interests Applied Physics
+Photonics
+Quantum Information
+  
+ Naveen Verma 
+  
+ Director of Graduate StudiesProfessor of Electrical Engineering 
+ B226 Engineering Quadrangle 
+ 609-258-1424 
+ nverma@princeton.edu 
+ Research Interests Biological & Biomedical
+Computing & Networking
+High-Performance Computing
+Integrated Electronic Systems
+  
+ David Wentzlaff 
+  
+ Associate Professor of Electrical Engineering 
+ B228 Engineering Quadrangle 
+ 609-258-7781 
+ wentzlaf@princeton.edu 
+ Research Interests Computing & Networking
+Energy & Environment
+High-Performance Computing
+Integrated Electronic Systems
+  
+ Gerard Wysocki 
+  
+ Director of MIRTHE+Associate Professor of Electrical Engineering 
+ B324 Engineering Quadrangle 
+ 609-258-8187  
+ gwysocki@princeton.edu 
+ Research Interests Applied Physics
+Biological & Biomedical
+Energy & Environment
+Photonics
+  
+ Loren Pfeiffer 
+  
+ Senior Research Scholar, Electrical Engineering 
+ B404 Engineering Quadrangle 
+ 609-258-2590 
+ loren@princeton.edu  
+
+Craig Arnold
+
+
+Professor of Mechanical and Aerospace EngineeringDirector, Princenton Institute for the Science and Technology of MaterialsD410 Engineering Quadrangle609-258-0250cbarnold@princeton.edu 
+
+
+
+David August
+
+
+Professor of Computer Science209 Computer Science Building609-258-2084august@princeton.edu 
+
+
+
+Gillat Kol
+
+
+Assistant Professor of Computer Science316 Computer Science 609-258-5386gkol@princeton.edu 
+
+
+
+Kai Li
+
+
+Paul M. and Marcia R. Wythes Professor in Computer Science321 Computer Science Building609-258-4637li@princeton.edu 
+
+
+
+Lynn Loo
+
+
+Theodora D. '78 and William H. Walton III '74 Professor in EngineeringProfessor of Chemical and Biological EngineeringDirector, Andlinger Center for Energy and the EnvironmentA323 Engineering Quadrangle609-258-9091lloo@princeton.edu 
+
+
+
+Margaret R. Martonosi
+
+
+Hugh Trumbull Adams '35 Professor of Computer ScienceProfessor of Computer Science204 Computer Science Building609-258-1912mrm@princeton.edu 
+
+
+
+Jason Petta
+
+
+Professor of Physics305 Jadwin Hall609-258-1173petta@princeton.edu 
+
+
+
+Warren Powell
+
+
+Professor of Operations Research and Financial EngineeringDirector, Program in Engineering and Management Systems230 Sherrerd Hall609-258-5373powell@princeton.edu 
+
+
+
+Jennifer Rexford
+
+
+Gordon Y.S. Wu Professor of EngineeringProfessor of Computer ScienceChair, Computer Science Department222 Computer Science Building609-258-5182jrex@princeton.edu 
+
+
+
+Mohammed Serry Ahmed
+
+
+Visiting Research ScholarAmerican University Cairo (Egypt)5 Atrium Engineering Quadranglemyahmed@princeton.edu 
+
+
+
+Mung Chiang
+
+
+Visiting Research ScholarDean of Engineering, Purdue Universitychiangm@princeton.edu 
+
+
+
+Yao-Hsin Chou
+
+
+Visiting Fellow Professor, National Chi Nan UniversityB221 Engineering Quadrangle yaohsinc@princeton.edu 
+
+
+
+Paul Cuff
+
+
+Visiting Research ScholarRenaissance Technologiescuff@princeton.edu 
+
+
+
+Zhiguo Ding
+
+
+Visiting Research CollaboratorAssociate Professor, Newcastle Universityzding@princeton.edu 
+
+
+
+Jose (Inaki) Esnaola
+
+
+Visiting Research CollaboratorLecturer, University of Sheffieldjesnaola@princeton.edu 
+
+
+
+Feng Jiang
+
+
+Visiting FellowProfessor, Harbin Institute of Technology, ChinaB221 Engineering Quadranglefj2@princeton.edu 
+
+
+
+Bingli Jiao
+
+
+VIsiting Research CollaboratorProfessor, Peking Universitybjiao@princeton.edu 
+
+
+
+Visa Koivunen
+
+
+Visiting Research CollaboratorAcademy Professor, Aalto Universitykoivunen@princeton.edu 
+
+
+
+Christopher Leberknight
+
+
+Visiting Research CollaboratorMontclair State Universitycsl@princeton.edu 
+
+
+
+Jun Li
+
+
+Visiting Research ScholarNanjing University of Science and Technology ChinaB307 Engineering Quadranglejl99@princeton.edu 
+
+
+
+Mehul Motani
+
+
+Visiting Research CollaboratorAssociate Professor, National University of Singaporemmotani@princeton.edu 
+
+
+
+Erdal Panayirci
+
+
+Visiting Research CollaboratorProfessor and Department Head, Kadir Has University, TurkeyB307 Engineering Quadrangle609-258-3582eepanay@princeton.edu 
+
+
+
+Athina Petropulu
+
+
+Visiting Research CollaboratorProfessor, Electrical & Computer EngineeringRutgers, The State University of New Jerseyapetropu@princeton.edu 
+
+
+
+Philip W. T.  Pong
+
+
+Visiting FellowAssociate Professor, The University of Hong Kong, Hong KongB307 Engineering Quadranglewpong@princeton.edu 
+
+
+
+Dr. Sai  Santosh Kumar Raavi
+
+
+Visiting FellowAssociate Professor, Indian Institute of Technology HyderabadC434 Engineering Quadranglesraavi@princeton.edu 
+
+
+
+Rafael Schaefer
+
+
+Visiting Research CollaboratorJunior Professor, Technische Universitat Berlinrafaelfs@princeton.edu 
+
+
+
+Shlomo Shamai (Shitz)
+
+
+Visiting Research CollaboratorWilliam Fondiller Chair in Telecommunications Department of Electrical Engineering Technion Israel Institute of TechnologyEngineering Quadrangleshamai@princeton.edu 
+
+
+
+Bhavin Shastri
+
+
+Visiting Research CollaboratorAssistant Professor, Queens Universitybshastri@princeton.edu 
+
+
+
+Wonjae Shin
+
+
+Visiting Research CollaboratorAssistant Professor, Pusan National Universitywonjaes@princeton.edu 
+
+
+
+Takao Someya
+
+
+Visiting Research ScholarProfessor, Department of Electrical and Electronic Engineering, School of EngineeringUniversity of Tokyotsomeya@princeton.edu 
+
+
+
+Sander Wahls
+
+
+Visiting Research CollaboratorAssociate Professor, Delft University of Technologywahls@princeton.edu 
+
+
+
+Yue Zhao
+
+
+Visiting Research CollaboratorAssistant Professor, Stony Brook Universityyuez@princeton.edu 
+
+
+
+Stephen Forrest
+
+
+James S. McDonnell Distinguished University Professor of Electrical Engineering, Emeritusforrest@princeton.edu 
+
+
+
+Hisashi Kobayashi
+
+
+Sherman Fairchild University Professor of Electrical Engineering and Computer Science, EmeritusB323B Engineering Quadrangle609-258-1984hisashi@princeton.edu 
+
+
+
+Bede Liu
+
+
+Professor, Electrical Engineering, EmeritusB323 Engineering Quadrangle609-258-4628liu@princeton.edu 
+
+
+
+Daniel Tsui
+
+
+Arthur Legrand Doty Professor of Electrical Engineering, EmeritusSenior ScholarB426 Engineering Quadrangle609-258-4621tsui@princeton.edu 
+
+
+
+Sigurd Wagner
+
+
+Professor, Electrical Engineering, EmeritusSenior ScholarB422 Engineering Quadrangle609-258-4631wagner@princeton.edu 
+
